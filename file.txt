@@ -1,0 +1,7 @@
+cd
+cat
+nano
+mk
+cp
+awk
+sed
